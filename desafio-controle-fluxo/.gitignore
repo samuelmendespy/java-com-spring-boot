@@ -1,0 +1,30 @@
+# Eclipse IDE
+/.project
+/.classpath
+/.settings/
+/bin/
+/target/
+
+# Arquivos temporários do Eclipse
+*.log
+*.bak
+*.swp
+
+# Arquivos de compilação
+*.class
+
+# Arquivos de configuração de sistema operacional
+.DS_Store   # Para macOS
+Thumbs.db   # Para Windows
+
+# Arquivos de dependências e bibliotecas (se estiver usando o Maven ou Gradle)
+# Maven
+/.m2/
+/target/
+
+# Gradle
+/.gradle
+/build/
+
+# Arquivos de dependências do IDE (caso tenha adicionado manualmente .jar no projeto)
+/lib/
